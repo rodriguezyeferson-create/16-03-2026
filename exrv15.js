@@ -1,0 +1,1 @@
+//criar um programa para verificar se uma nota maiorou igual a 60 representa "aprobado " ou reprobado, usando operador ternario
